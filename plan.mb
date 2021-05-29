@@ -1,0 +1,32 @@
+PUBLIC METHODS:
+count score
+
+CLASSES
+
+QUESTION:
+
+state:
+question
+answer
+response
+
+methods:
+ask question
+check the answer and gives responce
+count score
+
+PLAYER:
+
+state:
+id
+score
+
+behavior:
+counts score
+output score
+declare a winner and end of game
+
+
+
+
+
